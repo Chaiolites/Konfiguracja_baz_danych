@@ -1,0 +1,1 @@
+# Konfiguracja_baz_danych
